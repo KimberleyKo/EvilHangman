@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length_of_word_entries">
+        <item>1 letter</item>
+        <item>2 letters</item>
+        <item>3 letters</item>
+        <item>4 letters</item>
+        <item>5 letters</item>
+        <item>6 letters</item>
+        <item>7 letters</item>
+        <item>8 letters</item>
+        <item>9 letters</item>
+        <item>10 letters</item>
+        <item>11 letters</item>
+        <item>12 letters</item>
+        <item>13 letters</item>
+        <item>14 letters</item>
+        <item>15 letters</item>
+    </string-array>
+
+    <string-array name="length_of_word_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="number_guesses_entries">
+        <item>1 guess</item>
+        <item>2 guesses</item>
+        <item>3 guesses</item>
+        <item>4 guesses</item>
+        <item>5 guesses</item>
+        <item>6 guesses</item>
+        <item>7 guesses</item>
+        <item>8 guesses</item>
+        <item>9 guesses</item>
+        <item>10 guesses</item>
+        <item>11 guesses</item>
+        <item>12 guesses</item>
+        <item>13 guesses</item>
+        <item>14 guesses</item>
+        <item>15 guesses</item>
+        <item>16 guesses</item>
+        <item>17 guesses</item>
+        <item>18 guesses</item>
+        <item>19 guesses</item>
+        <item>20 guesses</item>
+        <item>21 guesses</item>
+        <item>22 guesses</item>
+        <item>23 guesses</item>
+        <item>24 guesses</item>
+        <item>25 guesses</item>
+        <item>26 guesses</item>
+    </string-array>
+
+    <string-array name="number_guesses_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+    </string-array>
+</resources>
